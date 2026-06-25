@@ -13,7 +13,7 @@ University coursework (Numerical Modelling and Engineering Simulations module, U
 
 Full numbers: [`calculations/force-table.md`](calculations/force-table.md). Full report: [`report/full-report.pdf`](report/full-report.pdf).
 
-## What We Did
+## What I Did
 
 ### Problem 1: Equilibrium Truss
 
